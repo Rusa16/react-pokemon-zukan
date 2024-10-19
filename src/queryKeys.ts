@@ -7,4 +7,3 @@ export const pokemonQueryKeys = createQueryKeys("pokemon", {
 });
 
 export const apiQueryKeys = mergeQueryKeys(pokemonQueryKeys);
-​
